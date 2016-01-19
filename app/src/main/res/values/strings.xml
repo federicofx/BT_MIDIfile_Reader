@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fretxapp</string>
+
+    <string name="str_text_according_tempo">text according tempo</string>
+    <string name="str_reproduction_time">reproduction time</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test_bt">testBT</string>
+</resources>
